@@ -1,1 +1,1 @@
-# CSE221_BRACU
+# CSE221_Algorithms_BRACU
