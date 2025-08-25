@@ -1,0 +1,6 @@
+Visited:(KLM 1 )  
+Visited:(SDF 2 )  
+Visited:(FDS 1 )  
+Visited:(XCV 2 )  
+Visited:(ABC 3 )  
+['EWQ', 3, 'OPN', 3, 'TYU', 3]
